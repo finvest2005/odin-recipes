@@ -2,10 +2,10 @@
 
 This is a basic recipe website.
 
-Skills was used in project:
+Skills were used in the project:
 
-1. Atomic commiting practice. Formulation of tasks within Subject/Body template or only Subject.
+1. Atomic committing practice. Formulation of tasks within Subject/Body template or only Subject.
 2. Proper using basic html tags and elements such as h1, h2, p, ul, ol, li, a, img.
-3. Working with external source of recipes to embedd them in html structure.
+3. Working with external source of recipes for embedding them in html structure.
 4. Git practice status, add, commit cycles with push at the end.
-5. Structuring files and directories in project.
+5. Structuring files and directories in the project.
